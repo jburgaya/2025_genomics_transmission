@@ -1,6 +1,6 @@
 [submodule "tenet"]
 	path = tenet
-	url = https://github.com/jburgaya/tenet
+	url = https://github.com/jburgaya/tenet.git
 [submodule "virulence_pseudomonas_db"]
 	path = virulence_pseudomonas_db
 	url = https://github.com/jburgaya/virulence_pseudomonas_db.git
